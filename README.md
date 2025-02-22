@@ -27,3 +27,7 @@ Działania:
 Obliczenie różnicy dla każdego kilometra w zadanym zakresie.
 Generowanie wykresu zależności różnicy między łukiem a cięciwą.
 Wygenerowanie tabeli z wynikami dla każdego kilometra (co 1 km).
+![image](https://github.com/user-attachments/assets/4a21418c-86e5-4c2c-ad6c-29477788a45b)
+![image](https://github.com/user-attachments/assets/8ca4b664-33e7-416a-83d9-560f818b122c)
+![image](https://github.com/user-attachments/assets/d43df70a-21be-4d9e-a6af-0ac42426d1eb)
+
